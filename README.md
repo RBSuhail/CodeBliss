@@ -1,4 +1,4 @@
-# CodeCanvas 🎨
+# CodeBliss 🎨
 
 ![React](https://img.shields.io/badge/React-17.0.2-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.4.2-blue)
