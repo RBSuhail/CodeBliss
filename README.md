@@ -18,7 +18,8 @@ CodeCanvas is an online code compiler that supports multiple programming languag
 
 ## Screenshots 📸
 
-![Screenshot](https://via.placeholder.com/800x400.png?text=Screenshot+of+CodeCanvas)
+![Screenshot]()![Capture](https://github.com/user-attachments/assets/1e605fe1-bff2-4d3e-a7d2-8297f16b6fbd)
+
 
 ## Getting Started 🚀
 
