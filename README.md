@@ -18,21 +18,57 @@ CodeCanvas is an online code compiler that supports multiple programming languag
 
 ## Screenshots 📸
 
-![Screenshot](https://github.com/user-attachments/assets/1e605fe1-bff2-4d3e-a7d2-8297f16b6fbd)
+![Capture](https://github.com/user-attachments/assets/c8a6ea2d-68d8-4492-a903-22f34c15a822)
 
+**Getting Started:**
+*   **Prerequisites:**
+    *   Node.js
+    *   npm or yarn
+*   **Installation:**
+    *   Clone the repository: `git clone https://github.com/your-username/codecanvas.git`
+    *   Navigate to the project folder: `cd codecanvas`
+    *   Install the dependencies: `npm install` or `yarn install`
+    *   Start the development server: `npm start` or `yarn start`
+    *   Open your browser and navigate to `http://localhost:3000`
+*   **Usage:**
+    *   Select a programming language from the dropdown menu.
+    *   Write code in the editor.
+    *   Provide input in the input section.
+    *   Click the "Run" button to execute the code.
+    *   View the output in the output section.
 
-## Getting Started 🚀
+**Project Structure:**
+*   The project structure is organised into the following directories:
+    *   `public/`
+    *   `src/`
+        *   `components/`
+            *   `Header.tsx`
+            *    `Editor.tsx`
+            *    `Input.tsx`
+            *   `Output.tsx`
+            *   `Footer.tsx`
+        *   `App.tsx`
+        *   `index.tsx`
+        *   `themes.css`
+   *   `.gitignore`
+    *    `package.json`
+   *    `README.md`
 
-Follow these instructions to get a copy of the project up and running on your local machine.
+**Useful Links:**
+*   **CodeBliss**(https://code-bliss.vercel.app/)
 
-### Prerequisites
+**Contributing:**
+*   Contributions are welcome and can be submitted as issues or pull requests.
 
-- Node.js
-- npm or yarn
+**License:**
+*   The project is licensed under the MIT License.
 
-### Installation
+**Acknowledgements:**
+*   The project uses React, TypeScript, Axios, and TailwindCSS.
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/codecanvas.git
-   cd codecanvas
+**Technologies:**
+*   React version 17.0.2.
+*   TypeScript version 4.4.2.
+*  Axios version 0.21.1.
+*   TailwindCSS version 2.2.16.
+
